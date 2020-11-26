@@ -1,0 +1,22 @@
+H:\Download\NC3\Dllosaurus\Dec\bin\Debug\netcoreapp3.1\Dllosaurus.exe
+H:\Download\NC3\Dllosaurus\Dec\bin\Debug\netcoreapp3.1\Dllosaurus.deps.json
+H:\Download\NC3\Dllosaurus\Dec\bin\Debug\netcoreapp3.1\Dllosaurus.runtimeconfig.json
+H:\Download\NC3\Dllosaurus\Dec\bin\Debug\netcoreapp3.1\Dllosaurus.runtimeconfig.dev.json
+H:\Download\NC3\Dllosaurus\Dec\bin\Debug\netcoreapp3.1\Dllosaurus.dll
+H:\Download\NC3\Dllosaurus\Dec\bin\Debug\netcoreapp3.1\Dllosaurus.pdb
+H:\Download\NC3\Dllosaurus\Dec\obj\Debug\netcoreapp3.1\Dllosaurus.csprojAssemblyReference.cache
+H:\Download\NC3\Dllosaurus\Dec\obj\Debug\netcoreapp3.1\Dllosaurus.csproj.CoreCompileInputs.cache
+H:\Download\NC3\Dllosaurus\Dec\obj\Debug\netcoreapp3.1\Dllosaurus.dll
+H:\Download\NC3\Dllosaurus\Dec\obj\Debug\netcoreapp3.1\Dllosaurus.pdb
+H:\Download\NC3\Dllosaurus\Dec\obj\Debug\netcoreapp3.1\Dllosaurus.genruntimeconfig.cache
+F:\Git Rep\NC32020\Dllosaurus\Src\bin\Debug\netcoreapp3.1\Dllosaurus.exe
+F:\Git Rep\NC32020\Dllosaurus\Src\bin\Debug\netcoreapp3.1\Dllosaurus.deps.json
+F:\Git Rep\NC32020\Dllosaurus\Src\bin\Debug\netcoreapp3.1\Dllosaurus.runtimeconfig.json
+F:\Git Rep\NC32020\Dllosaurus\Src\bin\Debug\netcoreapp3.1\Dllosaurus.runtimeconfig.dev.json
+F:\Git Rep\NC32020\Dllosaurus\Src\bin\Debug\netcoreapp3.1\Dllosaurus.dll
+F:\Git Rep\NC32020\Dllosaurus\Src\bin\Debug\netcoreapp3.1\Dllosaurus.pdb
+F:\Git Rep\NC32020\Dllosaurus\Src\obj\Debug\netcoreapp3.1\Dllosaurus.csprojAssemblyReference.cache
+F:\Git Rep\NC32020\Dllosaurus\Src\obj\Debug\netcoreapp3.1\Dllosaurus.csproj.CoreCompileInputs.cache
+F:\Git Rep\NC32020\Dllosaurus\Src\obj\Debug\netcoreapp3.1\Dllosaurus.dll
+F:\Git Rep\NC32020\Dllosaurus\Src\obj\Debug\netcoreapp3.1\Dllosaurus.pdb
+F:\Git Rep\NC32020\Dllosaurus\Src\obj\Debug\netcoreapp3.1\Dllosaurus.genruntimeconfig.cache
